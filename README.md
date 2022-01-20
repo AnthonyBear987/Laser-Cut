@@ -19,7 +19,7 @@ The lasers in the makerspace only take DXF files, but other file types can be co
 ## Materials:
 - The lasers in the makerspace can only cut up to 1/4 inch thick material 
 - Thicker materials are to be cut with the XCarve, also in the makerspace
-  0 Materials Provided (1/8 inch and 1/4 inch):
+  - Materials Provided (1/8 inch and 1/4 inch):
     - Plywood
     - Hardboard
     - MDF (Medium-density fibreboard)
@@ -37,7 +37,7 @@ This is a shelf in the makerspace of some of the different provided materials.
 3) Split portions of the graphic into separate colors and choose different cut modes:
 - Each color has individual set parameter by the user
 - Scan (engraving) or cut (vector or raster)
- -- Ideally order scans first then cuts, so the material does not become out of focus
+  -- Ideally order scans first then cuts, so the material does not become out of focus
 
 4) Look around for power/speed charts for different materials in the space, helps visualize 
 - 1/8 inch plywood is the reference here
