@@ -5,7 +5,7 @@ Laser cutters are apart of nontraditional subtractive manufacturing technology. 
 ## What is a DXF file?
 A DXF file is a CAD (computer-aided design) vector image, silhouette images are the best showcase.
 
-![Build Status](https://previews.dropbox.com/p/thumb/ABb271MsSrPcwnFjjYxVbBSEL3VU8ehwd1VwewWo3W_C2mhE76upLw10Am_Hf7ulemfSXC-IY4TEXfQoSz20orm2hY10CbFY-5A6YSFELS2O_ju03Q3lS16QosYMkrPZcUdkoG1ktURvkmAsyNw-LcXKKxDwa_BuJB3Gqrm1F-uIE5-dU2ZujYxM2-o3qIfw7RraD1u_9Ts7KXLdfKFnSQs53wAuXWHYBnv7mt0YlUV6ytwKMtSk3H8i71VkrmVI0VxeEQCjvSF6825oW5V1b5do7N4tK6ngeRbPjNHdCEc1k8J8uZ0JsN9nQggSs4LgxjNaC0Mg2_hAYiv6el18P8NkIvwAge_DqTyn7963a8W8rQ/p.jpeg)
+![DXF Examples](https://previews.dropbox.com/p/thumb/ABb271MsSrPcwnFjjYxVbBSEL3VU8ehwd1VwewWo3W_C2mhE76upLw10Am_Hf7ulemfSXC-IY4TEXfQoSz20orm2hY10CbFY-5A6YSFELS2O_ju03Q3lS16QosYMkrPZcUdkoG1ktURvkmAsyNw-LcXKKxDwa_BuJB3Gqrm1F-uIE5-dU2ZujYxM2-o3qIfw7RraD1u_9Ts7KXLdfKFnSQs53wAuXWHYBnv7mt0YlUV6ytwKMtSk3H8i71VkrmVI0VxeEQCjvSF6825oW5V1b5do7N4tK6ngeRbPjNHdCEc1k8J8uZ0JsN9nQggSs4LgxjNaC0Mg2_hAYiv6el18P8NkIvwAge_DqTyn7963a8W8rQ/p.jpeg)
 
 The lasers in the makerspace only take DXF files, but other file types can be converted to DXF files with external software, like CorelDraw and Convertio.
 
