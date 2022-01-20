@@ -37,14 +37,14 @@ This is a shelf in the makerspace of some of the different provided materials.
 3) Split portions of the graphic into separate colors and choose different cut modes:
 - Each color has individual set parameter by the user
 - Scan (engraving) or cut (vector or raster)
-  -- Ideally order scans first then cuts, so the material does not become out of focus
+  - Ideally order scans first then cuts, so the material does not become out of focus
 
 4) Look around for power/speed charts for different materials in the space, helps visualize 
 - 1/8 inch plywood is the reference here
--- For “cut” colors the power should be around 85 power and 25 mm/s speed to punch through
--- For "cut" (vector engravings) a power around 15 and 375 mm/s speed will work (outlining)
--- For “scan” the power levels can be anywhere around 50 and about 450 mm/s speed
-   --- lower power for a lighter engraving and higher power for a darker engraving
+  - For “cut” colors the power should be around 85 power and 25 mm/s speed to punch through
+  - For "cut" (vector engravings) a power around 15 and 375 mm/s speed will work (outlining)
+  - For “scan” the power levels can be anywhere around 50 and about 450 mm/s speed
+    - lower power for a lighter engraving and higher power for a darker engraving
 
 ![RDworks](RDworks.png)
 
@@ -55,26 +55,26 @@ This is a shelf in the makerspace of some of the different provided materials.
 
 7) Autofocus the laser on the material
 - Move the laser above the material: hit Z/U, autofocus
--- Needs done everytime a new material is used
+  - Needs done everytime a new material is used
 
 8) Once satisfied download the cut profile to the connected laser cutter
 - A few questions will pop up on RDworks
--- Leave as "default"
--- Duplicate hit yes
+  - Leave as "default"
+  - Duplicate hit yes
 
 9) With the file transferred to the laser: hit file, default, enter
 - You should see the colored profiles on the laser’s screen 
 - If everything is not there, check to see if portions are labeled "Yes" under output on RDworks
--- The preview button on RDworks can help double check everything looks correct
+  - The preview button on RDworks can help double check everything looks correct
 
 10) Hit origin for your graphic's start on the material
 
 11) Hit frame to show the size of the cut area
 - If satisfied:
--- Place magnets on the material and out of the path of the laser, if possible
--- Hit Start/Pause, wait five seconds, then hit enter
+  - Place magnets on the material and out of the path of the laser, if possible
+  - Hit Start/Pause, wait five seconds, then hit enter
 - If not satisfied:
--- Resize graphic on RDworks, then repeat steps 8-11
+  - Resize graphic on RDworks, then repeat steps 8-11
 
 12) Laser begins, wait till cut is done to get final piece, clean up afterwards
 
