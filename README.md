@@ -19,7 +19,7 @@ The lasers in the makerspace only take DXF files, but other file types can be co
 ### _Lasers can be harmful to the skin, DO NOT TOUCH IT_ 
 
 <div>
-<img src="Laser_Warning.png" alt="Warning" style="float: left; margin-right: 50px;" width="400"/>
+<img src="Laser_Warning.png" alt="Warning" style="float: left; margin-right: 100px;" width="400"/>
   </div>
   
 ### Someone else needs to be in the room during operation in case something goes wrong
