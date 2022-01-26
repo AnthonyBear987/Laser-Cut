@@ -6,7 +6,7 @@ Laser cutters are a type of nontraditional subtractive manufacturing technology.
 A DXF file is a CAD (computer-aided design) vector image, silhouette images are the best showcase.
 
 <div>
-<img src="DXF_Examples.jpg" alt="Random DXF Files" class="center-img"  style="max-width:10%; max-height:55%;">
+<img src="DXF_Examples.jpg" alt="Random DXF Files" class="center-img"  style="max-width:50%; max-height:15%;">
   </div>
 
 The lasers in the makerspace only take DXF files, but other file types can be converted to DXF files with external software, like CorelDraw and Convertio.
