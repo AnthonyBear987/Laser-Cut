@@ -17,8 +17,8 @@ The lasers in the makerspace only take DXF files, but other file types can be co
 <div>
 <img src="Laser_Warning.png" alt="Warning" class="center-img"  style="max-width:50%; max-height:75%;">
   </div>
+      <p>Someone else needs to be in the room during operation in case something goes wrong</p>
 
-### Someone else needs to be in the room during operation in case something goes wrong
 
 
 
