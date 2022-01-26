@@ -6,7 +6,7 @@ Laser cutters are a type of nontraditional subtractive manufacturing technology.
 A DXF file is a CAD (computer-aided design) vector image, silhouette images are the best showcase.
 
 <div>
-<img src="DXF_Examples.jpg" alt="Random DXF Files" class="center-img"  style="max-width:50%; max-height:15%;">
+<img src="DXF_Examples.jpg" alt="Random DXF Files" style="float: left; margin-right: 100px;" width="400"/>
   </div>
 
 The lasers in the makerspace only take DXF files, but other file types can be converted to DXF files with external software, like CorelDraw and Convertio.
@@ -15,7 +15,7 @@ The lasers in the makerspace only take DXF files, but other file types can be co
 ### _Lasers can be harmful to the skin, DO NOT TOUCH IT_ 
 
 <div>
-<img src="Laser_Warning.png" alt="Warning" class="center-img"  style="max-width:50%; max-height:75%;">
+<img src="Laser_Warning.png" alt="Warning" style="float: left; margin-right: 100px;" width="400"/>
   </div>
       <p>Someone else needs to be in the room during operation in case something goes wrong</p>
 
@@ -33,8 +33,10 @@ The lasers in the makerspace only take DXF files, but other file types can be co
     - Cardboard 
 - The size of the material cannot be bigger than 32 inches wide by 24 inches tall
 
-![Shelf](Shelf.JPG)
-
+<div>
+<img src="Shelf.JPG" alt="Shelf" style="float: left; margin-right: 100px;" width="400"/>
+  </div>
+  
 This is a shelf in the makerspace of some of the different provided materials.
 
 ## Steps:
@@ -52,8 +54,10 @@ This is a shelf in the makerspace of some of the different provided materials.
   - For “scan” the power levels can be anywhere around 50 and about 450 mm/s speed
     - lower power for a lighter engraving and higher power for a darker engraving
 
-![RDworks](RDworks.png)
-
+<div>
+<img src="RDworks.png" alt="RDworks" style="float: left; margin-right: 100px;" width="600"/>
+  </div>
+  
 5) Power on the laser with the key, lights should flash and a noise will be produced
 
 6) Lift the lid and place the material on the grate
@@ -84,6 +88,6 @@ This is a shelf in the makerspace of some of the different provided materials.
 
 12) Laser begins, wait till cut is done to get final piece, clean up afterwards
 
-![Laser Cutter](Laser_Cutter.png)
+[![Laser](http://img.youtube.com/vi/qqVsCq_PHjc/0.jpg)](http://www.youtube.com/watch?v=qqVsCq_PHjc)
 
 It takes time to get attuned to the different settings, practice and time is key, any questions?
