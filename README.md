@@ -20,6 +20,8 @@ The lasers in the makerspace only take DXF files, but other file types can be co
 
 ### Someone else needs to be in the room during operation in case something goes wrong
 
+
+
 ## Materials:
 - The lasers in the makerspace can only cut up to 1/4 inch thick material 
 - Thicker materials are to be cut with the XCarve, also in the makerspace
