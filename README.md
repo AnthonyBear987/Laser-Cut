@@ -2,6 +2,8 @@
 ## _The Ones in the Makerspace_
 Laser cutters are a type of nontraditional subtractive manufacturing technology. This technology allows for two-dimensional shapes to be cut out of various materials. This has a lot of applications, but bad things can happen if mishandled. Cuts and engravings can be done to materials with these lasers via DXF files.
 
+***
+
 ## What is a DXF file?
 A DXF file is a CAD (computer-aided design) vector image, silhouette images are the best showcase.
 
@@ -11,16 +13,19 @@ A DXF file is a CAD (computer-aided design) vector image, silhouette images are 
 
 The lasers in the makerspace only take DXF files, but other file types can be converted to DXF files with external software, like CorelDraw and Convertio.
 
+***
+
 ## Warnings:
 ### _Lasers can be harmful to the skin, DO NOT TOUCH IT_ 
 
 <div>
-<img src="Laser_Warning.png" alt="Warning" style="float: left; margin-right: 100px;" width="400"/>
+<img src="Laser_Warning.png" alt="Warning" style="float: left; margin-right: 50px;" width="400"/>
   </div>
-      <p>Someone else needs to be in the room during operation in case something goes wrong</p>
+  
+### Someone else needs to be in the room during operation in case something goes wrong
 
 
-
+***
 
 ## Materials:
 - The lasers in the makerspace can only cut up to 1/4 inch thick material 
@@ -38,6 +43,8 @@ The lasers in the makerspace only take DXF files, but other file types can be co
   </div>
   
 This is a shelf in the makerspace of some of the different provided materials.
+
+***
 
 ## Steps:
 1) Import your DXF file to the RDWorks software that is on the computer next to the laser cutters 
