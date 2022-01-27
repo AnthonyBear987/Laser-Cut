@@ -1,6 +1,6 @@
 # How to Use a Laser Cutter:
 ## _The Ones in the Makerspace_
-Laser cutters are a type of nontraditional subtractive manufacturing technology. This technology allows for two-dimensional shapes to be cut out of various materials. This has a lot of applications, but bad things can happen if mishandled. Cuts and engravings can be done to materials with these lasers via DXF files.
+Laser cutters are a type of nontraditional subtractive manufacturing technology. This technology allows for two-dimensional shapes to be cut out of various materials. Potential applications are abundant, but bad things can happen if mishandled. Cuts and engravings can be done to materials with these lasers via DXF files.
 
 ***
 
@@ -36,18 +36,18 @@ The lasers in the makerspace only take DXF files, but other file types can be co
     - Various Acrylics
     - Cardboard 
 - The size of the material cannot be bigger than 32 inches wide by 24 inches tall
-
+  
 <div>
 <img src="Shelf.JPG" alt="Shelf" style="float: left; margin-right: 100px;" width="400"/>
   </div>
-  
-This is a shelf in the makerspace of some of the different provided materials.
+
+A shelf in the makerspace with some of the different provided materials
 
 ***
 
 ## Steps:
 1) Import your DXF file to the RDWorks software that is on the computer next to the laser cutters 
-2) Place the DXF graphic close to the top right (green square origin)
+2) Place the DXF graphic close to the top right (green square origin), photo example below
 3) Split portions of the graphic into separate colors and choose different cut modes:
 - Each color has individual set parameter by the user
 - Scan (engraving) or cut (vector or raster)
